@@ -3,8 +3,9 @@
 Instruções para configurar e execultar o projeto
 ## 1 - instalar o python 
 
-**Importante:** marcar a opção add to path, durante a instalação do python
-"https://www.python.org/downloads/"
+**Importante:** marcar a opção 'add to path', durante a instalação do python para adicionar o python às variaveis de ambiente 
+
+ - [página oficial do python](https://www.python.org/downloads/)
 
 ## 2 - cirar ambiente virtual
 ### No seu terminal, powershell por exemplo, vá até a pasta do projeto:
